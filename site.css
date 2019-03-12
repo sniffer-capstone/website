@@ -1,0 +1,12 @@
+/* start stop icons */
+.fas.fa-stop, .fas.fa-play{
+    font-size: 4em;
+    color:slategray;
+}
+/* start stop toggles */
+.fas.fa-play:hover{
+    color:forestgreen;
+}
+.fas.fa-stop:hover{
+    color:red;
+}
